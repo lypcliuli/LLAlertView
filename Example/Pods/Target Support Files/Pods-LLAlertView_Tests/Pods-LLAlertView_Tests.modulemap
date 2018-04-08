@@ -1,6 +1,0 @@
-framework module Pods_LLAlertView_Tests {
-  umbrella header "Pods-LLAlertView_Tests-umbrella.h"
-
-  export *
-  module * { export * }
-}
